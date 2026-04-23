@@ -2,7 +2,8 @@
 *.xlsx
 *.csv
 __pycache__/
-.others/
+others/
+data/
 .idea/
 .venv/
 venv/
