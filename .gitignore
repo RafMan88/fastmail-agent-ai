@@ -3,7 +3,8 @@
 *.csv
 __pycache__/
 others/
-data/
+data/*
+!data/.gitkeep
 .idea/
 .venv/
 venv/
