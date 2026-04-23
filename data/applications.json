@@ -1,0 +1,1608 @@
+{
+  "saved_at": "2026-04-20T14:18:36.524137",
+  "count": 178,
+  "rows": [
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Symphony",
+      "poste": null,
+      "response_date": "2026-04-16T13:03:09Z",
+      "phone": null,
+      "comment": "Invitation à un entretien en visioconférence Microsoft Teams planifié le 16 avril 2026 entre 15h et 16h, impliquant Rafik, Fenyx et Symphony."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Fenyx",
+      "poste": null,
+      "response_date": "2026-04-16T13:00:48Z",
+      "phone": "+33 1 87 40 46 54",
+      "comment": "Entretien planifié le 16 avril 2026 de 16h00 à 16h30, organisé via Google Meet par Esteban Doco de Fenyx."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Monaco Digital",
+      "poste": "Testeur Logiciel",
+      "response_date": "2026-04-14T13:43:38Z",
+      "phone": null,
+      "comment": "Suite à un échange téléphonique, le recruteur demande l'envoi du CV, signe d'un intérêt positif pour le profil."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": null,
+      "poste": "QA Tester",
+      "response_date": "2026-04-14T10:31:45Z",
+      "phone": null,
+      "comment": "Un recruteur (Simran Kakkar) a répondu à la candidature de Rafik via LinkedIn InMail pour le poste de QA Tester à Nice, message de prise de contact informelle."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Display Interactive",
+      "poste": "QA automation",
+      "response_date": "2026-04-14T08:14:41Z",
+      "phone": null,
+      "comment": "Suivi d'un entretien déjà engagé, la recruteuse propose un échange téléphonique pour discuter du ressenti de Rafik."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Esri",
+      "poste": "Sr. Software Development Engineer in Test (SDET) – Network Diagrams",
+      "response_date": "2026-04-14T08:03:08Z",
+      "phone": null,
+      "comment": "Acknowledgement of application received, no decision yet — team will review and reach out if profile matches."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Fenyx",
+      "poste": "QA Automatisation",
+      "response_date": "2026-04-13T12:37:54Z",
+      "phone": "+33 6 44 32 44 19",
+      "comment": "Message positif d'un responsable d'agence partageant la fiche de poste et les détails d'un entretien client prévu le jeudi 16 avril, avec présentation et test technique live."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "IT Solutions Factory",
+      "poste": null,
+      "response_date": "2026-04-10T14:29:49Z",
+      "phone": null,
+      "comment": "Refus poli après étude du dossier, d'autres profils correspondent mieux, encouragements à consulter les futures offres sur itsf.io."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Wolsome",
+      "poste": "QA",
+      "response_date": "2026-04-10T08:42:24Z",
+      "phone": null,
+      "comment": "Un recruteur Wolsome informe Rafik que son profil est déjà à l'étude par le client suite à sa candidature directe, et se retire du processus."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Meritis",
+      "poste": null,
+      "response_date": "2026-04-10T06:06:16Z",
+      "phone": null,
+      "comment": "Refus poli après étude approfondie du dossier, d'autres candidatures correspondent mieux au poste, encouragements pour la suite des recherches."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Wolsome",
+      "poste": "QA",
+      "response_date": "2026-04-09T09:12:34Z",
+      "phone": null,
+      "comment": "Message LinkedIn de Clément Benzaim (Wolsome) indiquant qu'il tiendra Rafik informé de la suite concernant l'opportunité QA à Nice, sans décision encore communiquée."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Wolsome",
+      "poste": "QA",
+      "response_date": "2026-04-09T08:17:45Z",
+      "phone": null,
+      "comment": "Refus de l'opportunité QA à Nice car le modèle pré-embauche avec internalisation chez le client ne convient pas au recruteur."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Wolsome",
+      "poste": "QA",
+      "response_date": "2026-04-09T08:10:07Z",
+      "phone": null,
+      "comment": "Réponse positive d'un recruteur Wolsome via LinkedIn InMail, précisant que le poste QA à Nice est en CDI et invitant Rafik à confirmer son intérêt avant un appel."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Diabolocom",
+      "poste": "Senior QA Engineer, Core Squad",
+      "response_date": "2026-04-08T13:34:39Z",
+      "phone": null,
+      "comment": "Polite rejection referencing a previous unsuccessful live coding session less than a year ago, with best wishes for the job search."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Display Interactive",
+      "poste": "Senior QA Automation",
+      "response_date": "2026-04-08T07:52:38Z",
+      "phone": "+33 1 87 40 04 73",
+      "comment": "Invitation à un entretien Google Meet pour un poste de Senior QA Automation, planifié le 13 avril 2026 de 14h00 à 14h30."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Meritis",
+      "poste": null,
+      "response_date": "2026-04-07T21:29:25Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature, décision attendue sous 1 à 2 semaines."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Display Interactive",
+      "poste": "Senior QA Automation",
+      "response_date": "2026-04-07T16:32:29Z",
+      "phone": null,
+      "comment": "Réponse positive, Rafik est dans la short list et un échange technique en anglais de 20-30 minutes est proposé."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Matawan Services",
+      "poste": "Testeur Pytest",
+      "response_date": "2026-04-07T14:12:49Z",
+      "phone": null,
+      "comment": "Réponse positive via LinkedIn InMail, le recruteur demande à Rafik de transmettre son numéro de téléphone, signe d'un intérêt concret pour sa candidature."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Matawan Services",
+      "poste": "Testeur Pytest",
+      "response_date": "2026-04-07T12:35:42Z",
+      "phone": null,
+      "comment": "Réponse positive via LinkedIn InMail, le recruteur souhaite appeler Rafik dans la journée et lui demande son numéro de téléphone."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Apple",
+      "poste": "Software Engineer in Test",
+      "response_date": "2026-04-07T11:11:55Z",
+      "phone": null,
+      "comment": "Refus poli via LinkedIn InMail, le poste a été attribué à un autre candidat jugé plus adapté, invitation à consulter d'autres offres."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Matawan Services",
+      "poste": "Testeur Pytest",
+      "response_date": "2026-04-07T07:34:59Z",
+      "phone": null,
+      "comment": "Réponse positive via LinkedIn InMail, le recruteur confirme la possibilité de collaborer en freelance et propose un échange téléphonique dans la journée."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Display Interactive",
+      "poste": null,
+      "response_date": "2026-04-03T08:34:03Z",
+      "phone": "+33 1 87 40 26 61",
+      "comment": "Invitation à un deuxième entretien en présentiel avec le VP Engineering, à orientation technique, suite à un premier échange avec Jennifer."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Display Interactive",
+      "poste": null,
+      "response_date": "2026-04-03T08:31:25Z",
+      "phone": null,
+      "comment": "Confirmation d'un deuxième entretien avec envoi d'une invitation pour 15h."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Matawan Services",
+      "poste": "Testeur fonctionnel Pytest",
+      "response_date": "2026-04-02T16:10:57Z",
+      "phone": null,
+      "comment": "Prise de contact positive d'une chargée de recrutement suite à la sélection du profil de Rafik, avec proposition d'un premier échange téléphonique pour un poste de Testeur fonctionnel Pytest dans les Alpes-Maritimes."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Display Interactive",
+      "poste": null,
+      "response_date": "2026-04-02T14:34:26Z",
+      "phone": null,
+      "comment": "Invitation à un deuxième entretien technique dans les locaux de Display Interactive, avec proposition de plusieurs créneaux disponibles."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "ASENIUM",
+      "poste": "Testeur / Business Analyst AMOA",
+      "response_date": "2026-04-02T10:05:38Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique via Free-Work confirmant la transmission de la candidature à ASENIUM, aucune décision prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "ODHCOM - FREELANCEREPUBLIK",
+      "poste": "QA Automatisation junior sur Playwright",
+      "response_date": "2026-04-02T10:03:46Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique de la plateforme Free-Work confirmant la transmission de la candidature à ODHCOM - FREELANCEREPUBLIK, sans décision à ce stade."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Octopus Group",
+      "poste": "QA Analyst intégration - Back-end/Middleware - systèmes bancaires ou de courtage - Anglais",
+      "response_date": "2026-04-02T10:02:53Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature transmise à Octopus Group via la plateforme Free-Work, aucune décision prise à ce stade."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "CAT-AMANIA",
+      "poste": "Coach Quality Analyst",
+      "response_date": "2026-04-02T09:56:21Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique de la plateforme Free-Work confirmant la transmission de la candidature à CAT-AMANIA, sans décision à ce stade."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "ADDIXWARE",
+      "poste": "QA Robotframework",
+      "response_date": "2026-04-02T09:54:44Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique de la plateforme Free-Work confirmant la transmission de la candidature à ADDIXWARE, sans décision à ce stade."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "WorldWide People",
+      "poste": "QA Automaticien / Testeur fonctionnel",
+      "response_date": "2026-04-01T13:03:09Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique via Free-Work confirmant la transmission de la candidature à WorldWide People, aucune décision prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Espritek",
+      "poste": "QA Automaticien - certifié ISTQB",
+      "response_date": "2026-04-01T13:02:28Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique via Free-Work confirmant la transmission de la candidature à Espritek, aucune décision prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Jane Hope",
+      "poste": "Testeur QA Manuel",
+      "response_date": "2026-04-01T12:45:06Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature transmise à Jane Hope via la plateforme Free-Work, aucune décision encore communiquée."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "WorldWide People",
+      "poste": "Testeur QA",
+      "response_date": "2026-04-01T12:43:52Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique de la plateforme Free-Work confirmant la transmission de la candidature à WorldWide People, sans décision à ce stade."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": null,
+      "poste": "Senior QA / Lead QA",
+      "response_date": "2026-03-31T16:19:31Z",
+      "phone": null,
+      "comment": "Message positif via LinkedIn InMail : l'interlocuteur évoque la possibilité d'un entretien imminent avec un démarrage dès la semaine suivante."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Safran Transmission Systems",
+      "poste": "Responsable Département Assurance Qualité Fabrication",
+      "response_date": "2026-03-31T13:37:56Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique de la candidature, aucune décision communiquée à ce stade."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Onepoint",
+      "poste": "Consultant ingénieur QA/Tests automatisés",
+      "response_date": "2026-03-31T09:41:18Z",
+      "phone": "+33 6 07 22 09 09",
+      "comment": "Réponse positive suite à la candidature de Rafik, proposition d'un échange téléphonique avec des créneaux proposés."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Onepoint",
+      "poste": "Consultant ingénieur QA/Tests automatisés",
+      "response_date": "2026-03-30T15:11:35Z",
+      "phone": null,
+      "comment": "Réponse positive, la recruteuse Sylvie THACH propose un premier échange téléphonique suite à la candidature et demande les disponibilités de Rafik."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Alteia",
+      "poste": "Senior QA Engineer",
+      "response_date": "2026-03-30T08:11:07Z",
+      "phone": "+33 1 87 40 34 19",
+      "comment": "Confirmation d'entretien avec David Seguela pour le poste de Senior QA Engineer, prévu le 2 avril 2026 à 14h00 via Google Meet."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "TF1",
+      "poste": "Lead QA Back-end",
+      "response_date": "2026-03-28T10:00:28Z",
+      "phone": null,
+      "comment": "Refus poli de l'équipe recrutement TF1, encouragements à repostuler sur de futures offres."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "KLETA",
+      "poste": "QA Big Data",
+      "response_date": "2026-03-27T08:28:48Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique via Free-Work confirmant la transmission de la candidature à KLETA, aucune décision encore prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Byrongroup",
+      "poste": "QA Front/Back API",
+      "response_date": "2026-03-27T08:25:48Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature transmise à Byrongroup via Free-Work, aucune décision encore communiquée."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Clostera",
+      "poste": "QA Engineer B2B",
+      "response_date": "2026-03-27T08:17:06Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique via Free-Work confirmant la transmission de la candidature à Clostera, aucune décision prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "KOUKA",
+      "poste": "QA Automaticien Playwright",
+      "response_date": "2026-03-27T08:16:46Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature transmise via Free-Work, aucune décision encore rendue."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "WorldWide People",
+      "poste": "Testeur QA",
+      "response_date": "2026-03-27T08:16:10Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature transmise via Free-Work à WorldWide People, aucune décision encore prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Axysse",
+      "poste": "Ingénieur QA Automatisation",
+      "response_date": "2026-03-27T08:14:30Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature transmise à Axysse via Free-Work, aucune décision prise pour le moment."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Byrongroup",
+      "poste": "QA Analyst",
+      "response_date": "2026-03-27T08:12:26Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature transmise à Byrongroup via Free-Work, aucune décision prise à ce stade."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Apple",
+      "poste": "Software Engineer in Test",
+      "response_date": "2026-03-25T14:01:39Z",
+      "phone": null,
+      "comment": "Réponse positive et succincte ('Thanks Rafik') via LinkedIn InMail suite à une candidature pour un poste de Software Engineer in Test chez Apple à Paris."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Display Interactive",
+      "poste": "QA",
+      "response_date": "2026-03-25T10:31:03Z",
+      "phone": "+33 1 87 40 09 63",
+      "comment": "Invitation à un entretien RH pour un poste QA chez Display Interactive, planifié le 30 mars 2026 via Google Meet."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Safran Electronics & Defense",
+      "poste": "Responsable Assurance Qualité Logiciel",
+      "response_date": "2026-03-24T14:06:14Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique de la candidature via le portail Safran, aucune décision exprimée."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Licorne Society",
+      "poste": null,
+      "response_date": "2026-03-24T13:21:55Z",
+      "phone": "+33 1 87 40 16 31",
+      "comment": "Invitation à un entretien de 30 minutes avec Eliette Belet pour une présentation du poste, échange sur le parcours et présentation du profil au client."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Apple",
+      "poste": "Software Engineer in Test",
+      "response_date": "2026-03-24T12:12:49Z",
+      "phone": null,
+      "comment": "Positive reply from a recruiter (Toby Alterman) via LinkedIn InMail, proposing to call Rafik the next afternoon regarding the Software Engineer in Test vacancy at Apple in Paris."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Alithya",
+      "poste": "Automation QA Engineer",
+      "response_date": "2026-03-24T10:40:18Z",
+      "phone": null,
+      "comment": "Polite rejection after careful consideration, encouraging the candidate to join their Talent Community and apply for future opportunities."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Payplug",
+      "poste": "Senior QA Engineer",
+      "response_date": "2026-03-24T09:38:34Z",
+      "phone": null,
+      "comment": "Refus poli, l'entreprise indique avoir retenu des profils plus alignés avec ses besoins actuels, avec encouragements pour la suite."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Apple",
+      "poste": "Software Engineer in Test",
+      "response_date": "2026-03-23T14:25:59Z",
+      "phone": null,
+      "comment": "Un recruteur Apple (Toby Alterman) répond positivement à Rafik via LinkedIn InMail et propose un appel téléphonique cette semaine pour discuter du poste."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Display Interactive",
+      "poste": null,
+      "response_date": "2026-03-23T14:10:36Z",
+      "phone": "+33 1 87 40 09 63",
+      "comment": "Entretien RH planifié avec Display Interactive pour le 30 mars 2026, invitation Google Meet envoyée par Jennifer Laurent."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": null,
+      "poste": "Responsable Qualité (Logiciel & Systèmes) & Tests",
+      "response_date": "2026-03-23T09:48:33Z",
+      "phone": null,
+      "comment": "Réponse positive et enthousiaste, un entretien en visio de 45 minutes est proposé par la Responsable RH Jennifer LAURENT."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Thales",
+      "poste": "Ingénieur Intégration Logiciel",
+      "response_date": "2026-03-20T11:37:32Z",
+      "phone": null,
+      "comment": "Refus poli car le poste est déjà pourvu, encouragements à postuler à de futures opportunités chez Thales."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Thales",
+      "poste": "Ingénieur Intégration Logiciel",
+      "response_date": "2026-03-20T11:37:29Z",
+      "phone": null,
+      "comment": "Refus poli après examen de la candidature, encouragements à suivre les opportunités futures sur les réseaux sociaux et le site carrières Thales."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Alteia",
+      "poste": "Senior QA Engineer",
+      "response_date": "2026-03-19T12:02:10Z",
+      "phone": null,
+      "comment": "Réponse positive d'une recruteuse qui confirme un appel téléphonique prévu le lundi 23 à 11h00."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Alteia",
+      "poste": "Senior QA Engineer",
+      "response_date": "2026-03-18T13:46:23Z",
+      "phone": null,
+      "comment": "Réponse positive, échange téléphonique de 30 minutes proposé pour discuter du parcours et de l'opportunité."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Licorne Society",
+      "poste": null,
+      "response_date": "2026-03-17T15:00:48Z",
+      "phone": "+33 1 87 40 16 31",
+      "comment": "Invitation à un entretien de 30 minutes avec Eliette Belet pour une présentation du poste, échange sur le parcours et présentation du profil au client."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Digital Recruiters",
+      "poste": "QA Testeur Automatisé – Cucumber & Playwright",
+      "response_date": "2026-03-17T09:25:19Z",
+      "phone": null,
+      "comment": "Refus poli après étude approfondie du dossier, candidature conservée dans le vivier 24 mois, encouragements pour la suite."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "ARISTID",
+      "poste": "QA Engineer",
+      "response_date": "2026-03-17T08:22:27Z",
+      "phone": null,
+      "comment": "Réponse positive suite à la candidature, proposition d'échange avec un lien Calendly pour planifier un entretien."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Digital Recruiters",
+      "poste": "QA Testeur Automatisé – Cucumber & Playwright",
+      "response_date": "2026-03-17T07:58:44Z",
+      "phone": null,
+      "comment": "Refus poli après étude approfondie du dossier, candidature conservée dans le vivier pendant 24 mois, encouragements pour la suite."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "ICDC",
+      "poste": "QA Automaticien",
+      "response_date": "2026-03-16T15:54:53Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique via Talentsoft suite à la candidature au poste de QA Automaticien F/H, aucune décision exprimée."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "agap2IT",
+      "poste": "Testeur QA",
+      "response_date": "2026-03-16T15:05:24Z",
+      "phone": null,
+      "comment": "Refus poli indiquant la clôture du poste, avec conservation du CV pour de futures opportunités."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Comwatt",
+      "poste": null,
+      "response_date": "2026-03-16T13:55:15Z",
+      "phone": "+33 7 70 17 62 75",
+      "comment": "Confirmation de positionnement pour une mission chez le client Comwatt avec un TJM de 430 €, accompagnée de la fiche de poste en pièce jointe."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Coptis",
+      "poste": "Engineering QA Manager",
+      "response_date": "2026-03-16T13:54:41Z",
+      "phone": "+33 1 39 04 23 40",
+      "comment": "Refus poli après échanges, profil ne correspondant pas aux besoins actuels, encouragements pour la suite."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Coptis",
+      "poste": "Engineering QA Manager",
+      "response_date": "2026-03-16T10:03:38Z",
+      "phone": null,
+      "comment": "Refus transmis par l'intermédiaire (cabinet de recrutement Team-IS), la CTO de Coptis n'a pas retenu la candidature, évoquant des profils avec une expérience plus affirmée en management."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "EccoTechnologies",
+      "poste": "Test Automation Engineer",
+      "response_date": "2026-03-16T09:53:15Z",
+      "phone": null,
+      "comment": "Confirmation d'entretien via Microsoft Teams pour le poste de Test Automation Engineer, lien de réunion fourni."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Display Interactive",
+      "poste": "Responsable Qualité (Logiciel & Systèmes) & Tests",
+      "response_date": "2026-03-16T05:54:05Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature, étude en cours, décision à venir dans les plus brefs délais."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "L'Atelier",
+      "poste": "Lead QA Pré-embauche",
+      "response_date": "2026-03-16T05:49:59Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature, décision à venir dans les plus brefs délais."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Licorne Society",
+      "poste": "QA Engineer",
+      "response_date": "2026-03-16T05:44:12Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique, l'équipe Licorne Society indique qu'elle reviendra vers Rafik prochainement après examen de sa candidature."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "ESTREEM",
+      "poste": "Senior Lead QA - Platform",
+      "response_date": "2026-03-16T05:39:58Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature au poste de Senior Lead QA - Platform, décision à venir dès que possible."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Oracle (Cloud Recruiting)",
+      "poste": "Senior QA Lead",
+      "response_date": "2026-03-16T05:22:38Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique pour la candidature au poste de Senior QA Lead, aucune décision mentionnée."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "DotWorld",
+      "poste": "QA Engineer - Freelance",
+      "response_date": "2026-03-16T05:04:30Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature, l'équipe de recrutement va examiner le dossier et reviendra prochainement pour les prochaines étapes."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "onepoint",
+      "poste": null,
+      "response_date": "2026-03-16T04:53:07Z",
+      "phone": null,
+      "comment": "Automated acknowledgement confirming receipt of application, no decision yet, review in progress."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Alteia",
+      "poste": "Senior QA Engineer",
+      "response_date": "2026-03-16T04:47:44Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique, la candidature est en cours d'examen et une réponse sera apportée prochainement."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Manutan",
+      "poste": "QA Testeur Automatisé – Cucumber & Playwright",
+      "response_date": "2026-03-16T04:45:33Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique, décision sous 5 semaines si profil retenu, sinon candidature considérée comme refusée sans contact."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Alithya",
+      "poste": "Automation QA Engineer",
+      "response_date": "2026-03-16T04:37:11Z",
+      "phone": null,
+      "comment": "Acknowledgement of application receipt for the Automation QA Engineer role, team will review and get back if the profile matches."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Tech Riders",
+      "poste": "Lead Test / QA Lead Senior",
+      "response_date": "2026-03-16T04:30:00Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique, examen du profil en cours, décision à venir si profil retenu."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Comwatt",
+      "poste": null,
+      "response_date": "2026-03-13T13:22:57Z",
+      "phone": "+33 7 70 17 62 75",
+      "comment": "Confirmation positive d'un positionnement chez le client Comwatt avec un TJM de 430 €, suite à un échange téléphonique."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "MBDA France",
+      "poste": "Ingénieur Assurance Qualité Engineering - Électronique Embarquée",
+      "response_date": "2026-03-12T09:53:35Z",
+      "phone": null,
+      "comment": "Refus poli après examen du dossier, d'autres candidatures privilégiées, dossier conservé 24 mois dans leur base de talents."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Safran",
+      "poste": null,
+      "response_date": "2026-03-11T03:27:19Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature chez Safran, aucune décision exprimée."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Groupe TF1",
+      "poste": "Lead QA Back-end",
+      "response_date": "2026-03-11T02:36:23Z",
+      "phone": null,
+      "comment": "Accusé de réception chaleureux, l'équipe recrutement TF1 s'engage à revenir vers Rafik sous 2 semaines par mail ou téléphone."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Bouygues",
+      "poste": "Lead QA Back-end",
+      "response_date": "2026-03-11T02:31:20Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique pour le poste de Lead QA Back-end, candidature en cours d'examen, aucune décision communiquée."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "NEXTON",
+      "poste": "Testeur QA Fonctionnel / Auto H/F",
+      "response_date": "2026-03-11T02:29:20Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique, décision attendue sous 20 jours, candidature conservée en CVthèque si non retenue."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "A2MAC1",
+      "poste": "QA Engineer",
+      "response_date": "2026-03-11T02:26:50Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique confirmant la bonne soumission de la candidature au poste de QA Engineer, sans décision à ce stade."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Manutan",
+      "poste": "QA Testeur Automatisé – Cucumber & Playwright",
+      "response_date": "2026-03-11T02:24:46Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique, décision possible dans le mois à venir, candidature non retenue passé 5 semaines sans contact."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Smile",
+      "poste": null,
+      "response_date": "2026-03-11T02:23:33Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique chaleureux, l'équipe recrutement promet d'analyser le dossier et de revenir rapidement avec une décision."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Galitt by Sopra Steria",
+      "poste": null,
+      "response_date": "2026-03-11T00:34:19Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique, la candidature sera examinée et un retour sera fait si le profil correspond."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Smartpoint",
+      "poste": "Ingénieur QA / Test Integration",
+      "response_date": "2026-03-10T07:56:54Z",
+      "phone": "+33 6 51 34 89 94",
+      "comment": "Refus du dossier de compétences par le client final, motif insuffisance de connaissances métiers."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Caisse des Dépôts et Consignations",
+      "poste": "QA Automaticien",
+      "response_date": "2026-03-09T10:14:38Z",
+      "phone": "+33 6 70 72 18 46",
+      "comment": "Réponse positive : la chargée de recrutement propose un échange téléphonique de 20 minutes pour faire suite à la candidature au poste de QA Automaticien."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "MBDA",
+      "poste": "Ingénieur Assurance Qualité Engineering - Électronique Embarquée",
+      "response_date": "2026-03-08T21:32:07Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique, décision attendue sous 6 semaines, absence de réponse valant refus."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Vente-unique.com",
+      "poste": "Ingénieur.e qualité",
+      "response_date": "2026-03-08T00:49:08Z",
+      "phone": null,
+      "comment": "Accusé de réception chaleureux, le profil sera étudié et l'équipe RH reviendra vers Rafik prochainement."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "MBDA France",
+      "poste": null,
+      "response_date": "2026-03-07T23:52:10Z",
+      "phone": null,
+      "comment": "Accusé de réception de candidature via Indeed, demande de complétion du dossier avant transmission aux recruteurs."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Groupe Beaumanoir",
+      "poste": null,
+      "response_date": "2026-03-07T23:48:11Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature via Indeed, création d'un espace candidat dans leur base de données, aucune décision prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Groupe Beaumanoir",
+      "poste": "Lead QA",
+      "response_date": "2026-03-07T23:48:11Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique, le dossier sera examiné prochainement, sans réponse sous quatre semaines la candidature sera considérée comme non retenue."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "PayPlug",
+      "poste": null,
+      "response_date": "2026-03-04T18:48:09Z",
+      "phone": "+33 6 67 82 31 96",
+      "comment": "Invitation à un entretien téléphonique (phonescreen) planifié avec Fleur de PayPlug le 10 mars 2026."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Payplug",
+      "poste": "Senior QA Engineer",
+      "response_date": "2026-03-02T16:35:10Z",
+      "phone": null,
+      "comment": "Réponse enthousiaste, profil retenu, entretien téléphonique de 30 minutes proposé via un lien de réservation."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Naxxum",
+      "poste": "Consultant Senior en Assurance Qualité",
+      "response_date": "2026-03-01T22:31:26Z",
+      "phone": null,
+      "comment": "Accusé de réception pour la candidature au poste de Consultant Senior en Assurance Qualité, décision à venir."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Thales",
+      "poste": "Ingénieur(e) Intégration, tests et validation Logiciel Confirmé (F/H)",
+      "response_date": "2026-03-01T20:53:18Z",
+      "phone": null,
+      "comment": "Accusé de réception intermédiaire : le profil n'a pas encore été examiné en raison d'un volume élevé de candidatures, décision à venir."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Diabolocom",
+      "poste": "Senior QA Engineer",
+      "response_date": "2026-03-01T07:00:37Z",
+      "phone": "+33 7 68 57 64 89",
+      "comment": "Réponse automatique d'absence, Déborah Destree sera de retour le 9 mars et répondra dès que possible."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "CHANEL",
+      "poste": "Lead Software Testing and QA",
+      "response_date": "2026-03-01T00:38:21Z",
+      "phone": null,
+      "comment": "Polite rejection email from CHANEL Recruitment Team, application will not progress to the next stage, with encouragement to set up job alerts for future opportunities."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "SQLI",
+      "poste": "Lead Test QA / Quality Lead",
+      "response_date": "2026-02-28T23:13:20Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique, candidature en attente d'examen, décision à venir."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "ICDC",
+      "poste": "QA Automaticien",
+      "response_date": "2026-02-28T23:08:10Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique de la candidature via Talentsoft pour le poste de QA Automaticien, aucune décision mentionnée."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Robeaute",
+      "poste": "Software Test Engineer",
+      "response_date": "2026-02-28T23:04:01Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique confirmant la soumission réussie de la candidature, aucune décision prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Resilience Care",
+      "poste": "QA Automation Engineer",
+      "response_date": "2026-02-16T05:28:46Z",
+      "phone": null,
+      "comment": "Accusé de réception chaleureux, décision attendue sous 3 semaines, réponse garantie pour toutes les candidatures."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Dfns",
+      "poste": "Senior Software Engineer",
+      "response_date": "2026-02-16T05:28:41Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature, décision à venir avec mention de conservation du CV pour 2 ans."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Huwise",
+      "poste": "Software Engineer Mid",
+      "response_date": "2026-02-16T05:21:45Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature, décision sous 3 semaines, refus implicite en cas de silence."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "BuyCo",
+      "poste": "Software Engineer",
+      "response_date": "2026-02-16T05:20:35Z",
+      "phone": null,
+      "comment": "Accusé de réception chaleureux, retour promis sous une dizaine de jours ouvrés par le Talent Acquisition Manager."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Allphins",
+      "poste": "QA Engineer",
+      "response_date": "2026-02-16T05:19:38Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature, décision à venir dans les plus brefs délais."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Centreon",
+      "poste": "QA Manager",
+      "response_date": "2026-02-16T05:19:09Z",
+      "phone": null,
+      "comment": "Acknowledgement of application receipt, no decision yet; if no news within three weeks, profile likely not selected."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Thales Group",
+      "poste": "Ingénieur(e) Intégration, tests et validation Logiciel Confirmé (F/H)",
+      "response_date": "2026-02-15T20:39:06Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique, candidature en cours d'examen par la Talent Acquisition Team de Thales Group."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "BNP Paribas",
+      "poste": "ESTREEM - QA Engineer back-end",
+      "response_date": "2026-02-15T20:35:15Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature, profil en cours d'étude, décision à venir dans les meilleurs délais."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Leetchi",
+      "poste": "QA Engineer",
+      "response_date": "2026-02-15T08:50:46Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature, décision à venir dans les meilleurs délais."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "agap2IT",
+      "poste": "Testeur QA",
+      "response_date": "2026-02-15T08:19:20Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature pour le poste de Testeur QA, décision à venir."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "PIXID",
+      "poste": "QA Automation Engineer",
+      "response_date": "2026-02-14T16:13:52Z",
+      "phone": null,
+      "comment": "Accusé de réception pour le poste de QA Automation Engineer, décision à venir dans les plus brefs délais."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Tether",
+      "poste": "QA Lead",
+      "response_date": "2026-02-13T16:46:00Z",
+      "phone": null,
+      "comment": "Acknowledgement of application for a 100% remote QA Lead position, decision pending review."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "BEEZEN",
+      "poste": "QA Test Lead",
+      "response_date": "2026-02-13T11:17:48Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique de la plateforme Free-Work confirmant la transmission de la candidature à BEEZEN, sans décision de leur part."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "NEO2",
+      "poste": "Test Lead / Responsable de Test",
+      "response_date": "2026-02-13T09:25:21Z",
+      "phone": null,
+      "comment": "Accusé de réception positif avec demande de questions complémentaires pour approfondir l'étude du profil, décision à venir."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "NEO2",
+      "poste": "Test Lead / Responsable de Test",
+      "response_date": "2026-02-13T09:24:02Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature, décision à venir selon la correspondance du profil aux attentes du poste."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Kraken",
+      "poste": "Senior QA Automation Engineer - Consumer",
+      "response_date": "2026-02-12T14:25:26Z",
+      "phone": null,
+      "comment": "Polite rejection after team review, application not selected for further consideration, encouragement to follow future openings."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Inov Team",
+      "poste": null,
+      "response_date": "2026-02-12T11:03:12Z",
+      "phone": "+33 6 32 44 41 16",
+      "comment": "Accusé de réception du dossier de compétences, retour client attendu en milieu de semaine prochaine."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Preventeo",
+      "poste": "Ingénieur QA automation",
+      "response_date": "2026-02-12T08:59:30Z",
+      "phone": null,
+      "comment": "Accusé de réception du CV par l'intermédiaire iPepper, transmission en cours chez le client Preventeo, retour à venir."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "IT Solutions Factory",
+      "poste": "Senior / Lead QA Engineer",
+      "response_date": "2026-02-12T07:02:54Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature, retour promis dès que possible sans décision encore prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Septentrio",
+      "poste": null,
+      "response_date": "2026-02-11T20:10:19Z",
+      "phone": null,
+      "comment": "Polite rejection after profile review, profile does not fully match the role requirements, wishes candidate good luck."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Indra / eu-LISA (via ConSol Partners)",
+      "poste": "Senior Test Engineer",
+      "response_date": "2026-02-11T17:20:47Z",
+      "phone": "+44 7441 342994",
+      "comment": "Positive progression: 2nd interview confirmed with the Test Coordinator at Indra, with a potential 3rd interview with eu-LISA to follow."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Indra",
+      "poste": "Senior Test Engineer",
+      "response_date": "2026-02-11T15:22:38Z",
+      "phone": "+44 7441342994",
+      "comment": "Positive feedback from Indra after a first interview, a second interview is proposed with two timeslots via the recruiter Iria Becerra (ConSol Partners)."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Inov Team",
+      "poste": null,
+      "response_date": "2026-02-11T14:21:56Z",
+      "phone": "+33 6 32 44 41 16",
+      "comment": "Réponse positive d'un recruteur demandant à Rafik de remplir un dossier de compétences pour une mission, en soulignant la pertinence de son profil Python/Pytest et migration de données."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "iPepper",
+      "poste": "Ingénieur QA automatisation",
+      "response_date": "2026-02-11T13:48:00Z",
+      "phone": null,
+      "comment": "Accusé de réception du CV de Rafik par le recruteur, échange en cours sans décision formelle encore exprimée."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Consol Partners",
+      "poste": "Senior Test Engineer",
+      "response_date": "2026-02-11T12:59:52Z",
+      "phone": "+44 7441 342994",
+      "comment": "Post-interview follow-up, recruiter confirms they will provide client feedback as soon as available, decision still pending."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Indra",
+      "poste": "Senior Test Engineer",
+      "response_date": "2026-02-11T08:24:48Z",
+      "phone": "+44 7441 342994",
+      "comment": "Positive response relayed by ConSol Partners: Indra has requested an interview, which Rafik confirmed for Wednesday at 11am CET."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Indra",
+      "poste": "Senior Test Engineer",
+      "response_date": "2026-02-10T16:04:25Z",
+      "phone": "+44 7441342994",
+      "comment": "Positive response via recruiter ConSol Partners: Indra has expressed interest and an interview has been arranged for Rafik."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Fabulous",
+      "poste": "QA Engineer",
+      "response_date": "2026-02-10T12:44:28Z",
+      "phone": null,
+      "comment": "Acknowledgement of application received, no decision yet, with a note that no response within 3 weeks means rejection."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Fabulous",
+      "poste": "QA Engineer",
+      "response_date": "2026-02-10T12:41:22Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique de la candidature soumise via Workable, aucune décision prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Indra",
+      "poste": "Senior Test Engineer",
+      "response_date": "2026-02-09T17:37:47Z",
+      "phone": "+44 7441 342994",
+      "comment": "Positive response via recruiter ConSol Partners: the client Indra wants to schedule an interview, and a meeting time is being coordinated for Wednesday."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Indra (via ConSol Partners)",
+      "poste": "Senior Test Engineer",
+      "response_date": "2026-02-09T17:34:56Z",
+      "phone": "+44 7441 342994",
+      "comment": "Positive response: the client Indra wants to schedule an interview with Rafik, and the recruiter is awaiting confirmation of availability."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Indra",
+      "poste": "Senior Test Engineer",
+      "response_date": "2026-02-09T15:52:44Z",
+      "phone": "+44 7441342994",
+      "comment": "Positive feedback from Indra via recruiter ConSol Partners, interview requested for this week for a Senior Test Engineer freelance role in Strasbourg."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "EccoTechnologies",
+      "poste": "QA Automaticien",
+      "response_date": "2026-02-09T11:11:56Z",
+      "phone": "+33 6 99 12 09 39",
+      "comment": "Confirmation d'un entretien Teams à 18h15, avec demande d'attestation d'exclusivité de présentation pour un partenaire basé à Cagnes-sur-Mer."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Consol Partners / Indra",
+      "poste": "Senior Test Engineer",
+      "response_date": "2026-02-06T11:47:33Z",
+      "phone": "+44 7441342994",
+      "comment": "Le recruteur a soumis le CV de Rafik avec ses préférences au client et attend leur retour, aucune décision prise pour l'instant."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Kraken",
+      "poste": "Senior QA Automation Engineer - Consumer",
+      "response_date": "2026-02-05T20:59:10Z",
+      "phone": null,
+      "comment": "Acknowledgement of application receipt, team will review qualifications and reach out if there is a match."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "EverAI",
+      "poste": null,
+      "response_date": "2026-02-05T20:48:09Z",
+      "phone": null,
+      "comment": "Accusé de réception chaleureux, décision à venir après examen de la candidature."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Insitoo Freelances",
+      "poste": "QA",
+      "response_date": "2026-02-05T20:12:54Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique via Free-Work confirmant la transmission de la candidature à Insitoo Freelances, aucune décision prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "SMARTPOINT",
+      "poste": "Ingénieur QA",
+      "response_date": "2026-02-05T20:11:53Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique de la plateforme Free-Work confirmant la transmission de la candidature à SMARTPOINT, aucune décision encore prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "OLYMPP",
+      "poste": "QA / Automatisation",
+      "response_date": "2026-02-05T20:07:15Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique de la plateforme Free-Work confirmant la transmission de la candidature à OLYMPP, sans décision encore prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "KLETA",
+      "poste": "QA Big Data",
+      "response_date": "2026-02-05T20:05:51Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique via Free-Work confirmant la transmission de la candidature à KLETA, aucune décision prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Diabolocom",
+      "poste": "Senior QA Engineer",
+      "response_date": "2026-02-04T12:15:54Z",
+      "phone": null,
+      "comment": "Acknowledgement of application received for Senior QA Engineer, team will review and get back if profile matches."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "K-LAGAN",
+      "poste": "Test Manager",
+      "response_date": "2026-02-04T10:24:05Z",
+      "phone": null,
+      "comment": "Réponse positive d'une recruteuse proposant une mission en mode hybride (2j présentiel Niort / 3j télétravail Paris) et suggérant de rester en contact pour de futures opportunités."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "SCALIAN",
+      "poste": "Responsable Assurance Qualité Produit Spatial H/F",
+      "response_date": "2026-02-03T21:13:05Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature, décision attendue sous 3 semaines, sans réponse la candidature sera considérée non retenue."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "ACP Qualife",
+      "poste": "QA Automatisation Selenium",
+      "response_date": "2026-02-03T19:52:21Z",
+      "phone": "+33 6 38 64 76 87",
+      "comment": "Invitation à un échange téléphonique planifié le jeudi 5 février à 17h pour une mission QA Automatisation Selenium à Aix/Venelles."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Cherry Pick",
+      "poste": null,
+      "response_date": "2026-02-03T10:17:59Z",
+      "phone": null,
+      "comment": "Confirmation enthousiaste que le profil de Rafik a été validé sur la plateforme Cherry Pick, désormais visible par les Tech Recruiters pour de futures missions."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "ATTINEOS",
+      "poste": "QA / Performance Testing Engineer",
+      "response_date": "2026-02-02T18:34:33Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature transmise à ATTINEOS via Free-Work, aucune décision encore communiquée."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Cherry Pick",
+      "poste": "QA senior Playwright - Banque/Assurance",
+      "response_date": "2026-02-02T18:30:49Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique de Free-Work confirmant la transmission de la candidature à Cherry Pick, sans décision à ce stade."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Consort Group",
+      "poste": "QA/Testeur Senior H/F",
+      "response_date": "2026-02-02T18:08:02Z",
+      "phone": null,
+      "comment": "Accusé de réception chaleureux, l'équipe recrutement va étudier le profil et reviendra vers Rafik pour la suite du processus."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Next Mondays",
+      "poste": "QA Automation – Playwright",
+      "response_date": "2026-02-02T15:57:14Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique via Free-Work confirmant la transmission de la candidature à Next Mondays, aucune décision prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "negative",
+      "company": "Ledger",
+      "poste": "Senior QA Engineer",
+      "response_date": "2026-02-02T15:32:09Z",
+      "phone": null,
+      "comment": "Accusé de réception poli avec indication implicite de refus si aucun retour sous deux semaines, encouragements pour la suite."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "CHANEL",
+      "poste": null,
+      "response_date": "2026-02-02T15:29:57Z",
+      "phone": null,
+      "comment": "Acknowledgement of application received, CHANEL Recruitment Team will review and respond as soon as possible."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "NEXTON",
+      "poste": "Testeur Automaticien Playwright H/F",
+      "response_date": "2026-02-02T15:18:04Z",
+      "phone": null,
+      "comment": "Accusé de réception de la candidature, décision attendue sous 20 jours avec conservation du CV en CVthèque en cas de refus."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Cherry Pick",
+      "poste": "QA Fonctionnel",
+      "response_date": "2026-02-02T15:14:12Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique, pas de décision immédiate — absence de réponse sous 2 semaines vaut refus implicite."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "LSEG",
+      "poste": null,
+      "response_date": "2026-02-02T13:49:32Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique d'une candidature via Workday, aucune décision mentionnée et aucun détail de poste visible."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Frontify",
+      "poste": "Senior QA Engineer",
+      "response_date": "2026-02-02T13:43:51Z",
+      "phone": null,
+      "comment": "Acknowledgement of application receipt for Senior QA Engineer position, a Talent Partner will follow up soon."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "ClickHouse",
+      "poste": null,
+      "response_date": "2026-02-02T13:39:11Z",
+      "phone": null,
+      "comment": "Acknowledgement of application received, hiring team will review and reach out if there is a good fit."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Wolsome",
+      "poste": "QA",
+      "response_date": "2026-01-30T10:07:00Z",
+      "phone": null,
+      "comment": "Message LinkedIn positif d'un recruteur (Clément Benzaim) concernant une opportunité QA, demandant à Rafik quelle proposition serait la plus adaptée à son profil."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Capitole",
+      "poste": "Payment Tester",
+      "response_date": "2026-01-30T09:49:45Z",
+      "phone": null,
+      "comment": "Réponse positive via LinkedIn InMail, le recruteur précise les conditions du poste (hybride 1-2 jours, ouvert aux freelances, avantages inclus)."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Capitole",
+      "poste": "Payment Tester",
+      "response_date": "2026-01-30T09:20:05Z",
+      "phone": null,
+      "comment": "Positive response via LinkedIn InMail, recruiter thanks Rafik and proposes an interview for next Tuesday, asking about onsite availability in Luxembourg."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Cherry Pick",
+      "poste": "QA Senior Playwright",
+      "response_date": "2026-01-29T08:25:28Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique via Free-Work confirmant la transmission de la candidature à Cherry Pick, sans décision encore rendue."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "Capitole",
+      "poste": "Payment Tester",
+      "response_date": "2026-01-28T09:35:09Z",
+      "phone": null,
+      "comment": "Le recruteur Luca C. (Capitole) contacte Rafik via LinkedIn InMail pour confirmer le poste à Luxembourg et lui demande ses disponibilités pour planifier un entretien de 30 minutes."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "IgniteTech / Crossover",
+      "poste": null,
+      "response_date": "2026-01-27T12:41:24Z",
+      "phone": null,
+      "comment": "Email de relance invitant Rafik à compléter une évaluation cognitive pour poursuivre sa candidature chez IgniteTech via Crossover, aucune décision prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Atlanse",
+      "poste": "QA Automaticien",
+      "response_date": "2026-01-26T15:12:41Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique via Free-Work confirmant la transmission de la candidature à Atlanse, aucune décision rendue."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "IgniteTech",
+      "poste": null,
+      "response_date": "2026-01-24T12:41:23Z",
+      "phone": null,
+      "comment": "Relance pour compléter une évaluation cognitive requise avant que la candidature puisse être examinée pour un poste à 100 000 USD/an chez IgniteTech."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Xcelirate",
+      "poste": "QA Engineer",
+      "response_date": "2026-01-24T09:12:39Z",
+      "phone": null,
+      "comment": "Accusé de réception chaleureux pour le poste de QA Engineer (Contract), décision à venir après étude du dossier."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "Xcelirate",
+      "poste": "QA Engineer",
+      "response_date": "2026-01-24T09:12:28Z",
+      "phone": null,
+      "comment": "Accusé de réception automatique confirmant la soumission réussie de la candidature, aucune décision prise."
+    },
+    {
+      "is_application_response": true,
+      "response": "positive",
+      "company": "IgniteTech / Crossover",
+      "poste": "AI-First Senior QA Engineer",
+      "response_date": "2026-01-21T12:41:23Z",
+      "phone": null,
+      "comment": "Réponse positive invitant Rafik à poursuivre sa candidature en passant un test d'aptitude cognitive de 15 minutes."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "IgniteTech",
+      "poste": "AI-First Senior QA Engineer",
+      "response_date": "2026-01-20T12:36:40Z",
+      "phone": null,
+      "comment": "Accusé de réception automatisé de Crossover invitant le candidat à compléter sa candidature via une évaluation pratique, sans décision finale."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "AppIQ Technologies",
+      "poste": "Sr. QA Engineer",
+      "response_date": "2026-01-20T08:45:52Z",
+      "phone": null,
+      "comment": "Acknowledgement of application received, explaining the structured multi-step hiring process with no decision yet."
+    },
+    {
+      "is_application_response": true,
+      "response": "pending",
+      "company": "AppIQ Technologies",
+      "poste": "Sr. QA Engineer - Machine Learning Platform for E-Commerce",
+      "response_date": "2026-01-20T08:44:01Z",
+      "phone": null,
+      "comment": "Acknowledgement of successful application submission, no decision yet."
+    }
+  ]
+}
